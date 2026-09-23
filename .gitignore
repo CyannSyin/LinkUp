@@ -36,3 +36,9 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+
+# take-home assignment materials
+/submission.md
+/answer.md
+/answers.md
+/笔试*.md
